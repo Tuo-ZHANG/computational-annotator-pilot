@@ -2,3 +2,4 @@ npy_dev/*
 npy_train/*
 load-data.ipynb
 test.py
+backup_npy
