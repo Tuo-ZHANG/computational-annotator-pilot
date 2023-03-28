@@ -1,5 +1,7 @@
 npy_dev/*
+!npy_dev/.gitkeep
 npy_train/*
+!npy_train/.gitkeep
 load-data.ipynb
 test.py
 backup_npy
